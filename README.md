@@ -1,0 +1,1 @@
+# Comprehensive-Survey-of-Synthetic-Tabular-Data-Generation
