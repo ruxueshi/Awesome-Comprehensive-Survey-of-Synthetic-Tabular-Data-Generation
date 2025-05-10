@@ -33,6 +33,7 @@ The first comprehensive survey for Synthetic Tabular Data Generation.
 <p align="center">
     <img src="./images/classification.png" width="70%" height="100%">
 </p>
+
 ## Traditional Generation Methods
 
 ### Machine Learning Method
@@ -132,6 +133,7 @@ The first comprehensive survey for Synthetic Tabular Data Generation.
 <p align="center">
     <img src="./images/post_processing.png" width="70%" height="100%">
 </p>
+
 ## Sample Enhancement
 
 ### Sample Filtering
