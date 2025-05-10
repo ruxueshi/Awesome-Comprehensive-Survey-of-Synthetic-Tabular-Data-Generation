@@ -1,5 +1,5 @@
 # Awesome-Synthetic-Tabular-Data-Generation
-## Our works
+## Our work
 
 🔥🔥🔥 **A Comprehensive Survey of Synthetic Tabular Data Generation** **[Paper](https://arxiv.org/pdf/2504.16506)**
 <p align="center">
